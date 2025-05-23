@@ -19,12 +19,11 @@ theme = "paper"
   
   github = 'Lilly-8'                 # github.com/YOUR_GITHUB_ID
   instagram = 'lillian_885_'           # instagram.com/YOUR_INSTAGRAM_ID
-
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'C:\Universidad\PP\portafolio\docs\themes\paper\images\Gato.png'                 # gravatar email or image url
-  name = 'Mykytuk'
+  avatar = 'images\Gato.png'                 # gravatar email or image url
+  name = 'Fanny Lillian Mykytuk Ayvar'
   bio = 'Hola, este es mi portafolio para la materia de Paradigmas de Programación'
 
 
