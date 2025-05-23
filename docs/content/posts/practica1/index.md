@@ -1,7 +1,7 @@
 +++
-date = '2025-05-22T10:20:24-08:08'
+date = '2025-05-23T07:53:02-07:00'
 draft = true
-tittle = 'Practica 1: Analisis de elementos fundamentales de lenguajes de programacion'
+title = 'Practica1'
 +++
 
 # Practica 1: Analisis de elementos fundamentales de lenguajes de programacion
