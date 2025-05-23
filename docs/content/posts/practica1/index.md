@@ -4,7 +4,7 @@ draft = false
 title = 'Practica1'
 +++
 
-# Practica 1: Analisis de elementos fundamentales de lenguajes de programacion
+## Practica 1: Analisis de elementos fundamentales de lenguajes de programacion
 
 Fanny lillian Mykytuk Ayvar
 
