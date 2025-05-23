@@ -4,7 +4,7 @@ draft = false
 title = 'Practica2'
 +++
 
-# Practica 2
+## Practica 2
 
 ## Analisis de codigo en *Python*
 
