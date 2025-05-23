@@ -3,11 +3,8 @@ languageCode = 'en-us'
 title = 'Mi portafolio'
 theme = "paper"
 
-[caches]
-  [caches.images]
-    dir = ':cacheDir/images'
 
-    [services]
+[services]
   [services.disqus]
     shortname = 'YOUR_DISQUS_SHORTNAME'     # use disqus comments
 
@@ -19,10 +16,10 @@ theme = "paper"
   
   github = 'Lilly-8'                 # github.com/YOUR_GITHUB_ID
   instagram = 'lillian_885_'           # instagram.com/YOUR_INSTAGRAM_ID
-  rss = true                                # show rss icon
+  # rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'Gato.png'                 # gravatar email or image url
+  avatar = 'https://i.pinimg.com/736x/4d/c7/30/4dc730762d81ca9fc101e75d10c17bc8.jpg'                 # gravatar email or image url
   name = 'Fanny Lillian Mykytuk Ayvar'
   bio = 'Hola, este es mi portafolio para la materia de Paradigmas de Programación'
 
@@ -30,7 +27,7 @@ theme = "paper"
   # misc
   disableHLJS = true                        # disable highlight.js
   disablePostNavigation = true              # disable post navigation
-  monoDarkIcon = true                       # show monochrome dark mode icon
+  # monoDarkIcon = true                       # show monochrome dark mode iconS // vuelve simple el icono de modo oscuro
   gravatarCdn = 'GRAVATAR_CDN_LINK'         # e.g. 'https://cdn.v2ex.com/gravatar/'
   math = true                               # enable KaTeX math typesetting globally
   localKatex = false                        # use local KaTeX js/css instead of CDN
@@ -41,12 +38,3 @@ theme = "paper"
   # RTL supprot
   #direction = "rtl"                         # RTL support for Right-to-left languages
 
-  # giscus
-[params.giscus]
-  repo = 'YOUR_GISCUS_REPO'                 # see https://giscus.app for more details
-  repoId = 'YOUR_GISCUS_REPO_ID'
-  category = 'YOUR__GISCUS_CATEGORY'
-  categoryId = 'YOUR_GISCUS_CATEGORY_ID'
-  mapping = 'pathname'
-  theme = 'light'
-  lang = 'zh-CN'
