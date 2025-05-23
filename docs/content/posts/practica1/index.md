@@ -1,3 +1,9 @@
++++
+date = '2025-05-22T10:20:24-08:08'
+draft = true
+tittle = 'Practica 1: Analisis de elementos fundamentales de lenguajes de programacion'
++++
+
 # Practica 1: Analisis de elementos fundamentales de lenguajes de programacion
 
 Fanny lillian Mykytuk Ayvar
