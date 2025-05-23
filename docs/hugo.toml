@@ -22,7 +22,7 @@ theme = "paper"
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'images\Gato.png'                 # gravatar email or image url
+  avatar = 'images/Gato.png'                 # gravatar email or image url
   name = 'Fanny Lillian Mykytuk Ayvar'
   bio = 'Hola, este es mi portafolio para la materia de Paradigmas de Programación'
 
