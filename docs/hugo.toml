@@ -17,8 +17,8 @@ theme = "paper"
 
   # header social icons
   
-  github = 'github.com/Lilly-8'                 # github.com/YOUR_GITHUB_ID
-  instagram = 'instagram.com/lillian_885_'           # instagram.com/YOUR_INSTAGRAM_ID
+  github = 'Lilly-8'                 # github.com/YOUR_GITHUB_ID
+  instagram = 'lillian_885_'           # instagram.com/YOUR_INSTAGRAM_ID
 
   rss = true                                # show rss icon
 
@@ -40,7 +40,7 @@ theme = "paper"
   appleTouchIcon = "apple-touch-icon.png"   # customize the default Apple touch icon
 
   # RTL supprot
-  direction = "rtl"                         # RTL support for Right-to-left languages
+  #direction = "rtl"                         # RTL support for Right-to-left languages
 
   # giscus
 [params.giscus]
