@@ -23,9 +23,9 @@ theme = "paper"
   rss = true                                # show rss icon
 
   # home page profile
-  avatar = 'GRAVATAR_EMAIL'                 # gravatar email or image url
-  name = 'YOUR_NAME'
-  bio = 'YOUR_BIO'
+  avatar = 'C:\Universidad\PP\portafolio\docs\themes\paper\images\Gato.png'                 # gravatar email or image url
+  name = 'Mykytuk'
+  bio = 'Hola, este es mi portafolio para la materia de Paradigmas de Programación'
 
 
   # misc
