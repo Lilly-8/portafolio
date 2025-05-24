@@ -2,6 +2,7 @@
 date = '2025-05-23T15:58:15-07:00'
 draft = false
 title = 'Practica 3: Aprendizaje y Análisis: Aplicación TODO en Haskell'
+weight = 3
 +++
 
 ## Practica 3: Analisis de Aplicacion **TODO** en Haskell
