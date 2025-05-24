@@ -1,7 +1,7 @@
 +++
 date = '2025-05-23T07:53:02-07:00'
 draft = false
-title = 'Practica1'
+title = 'Practica 1: Analisis de elementos fundamentales de lenguajes de programacion'
 +++
 
 ## Practica 1: Analisis de elementos fundamentales de lenguajes de programacion
