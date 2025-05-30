@@ -5,8 +5,6 @@ title = 'Practica 2 Analisis de codigo en Python'
 weight = 2
 +++
 
-## Practica 2
-
 ## Analisis de codigo en *Python*
 
 Fanny Lillian Mykytuk Ayvar

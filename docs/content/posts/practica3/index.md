@@ -5,7 +5,7 @@ title = 'Practica 3: Aprendizaje y Análisis: Aplicación TODO en Haskell'
 weight = 3
 +++
 
-## Practica 3: Analisis de Aplicacion **TODO** en Haskell
+
 
 ### Instalacion del entorno de desarrollo
 

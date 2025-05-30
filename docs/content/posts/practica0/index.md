@@ -5,8 +5,6 @@ title = 'Practica 0: Uso de repositorios'
 weight = 1
 +++
 
-# Práctica 0: Uso de repositorios
-
 ## Introducción
 
 En esta práctica aprendimos los fundamentos de Markdown, Git, GitHub, Hugo y GitHub Actions para crear una página estática. Esta actividad se dividió en tres sesiones, cada una con objetivos específicos que se integran para formar un portafolio digital automatizado.
@@ -95,7 +93,7 @@ GitHub Actions permite automatizar flujos de trabajo. En este caso, se utiliza p
 
 2. Crear un nuevo sitio:
 
-```
+```Prolog
 hugo new site mi-portafolio
 cd mi-portafolio
 git init
@@ -103,26 +101,26 @@ git init
 
 1. Descargar un tema:
 
-```
+```Prolog
 git submodule add <https://github.com/theNewDynamic/gohugo-theme-ananke.git> themes/ananke
 echo 'theme = "ananke"' >> config.toml
 ```
 
 4. Crear contenido:
 
-```
+```Prolog
 hugo new posts/practica0.md
 ```
 
 5. Compilar y ver el sitio local:
 
-```
+```Prolog
 hugo server
 ```
 
 6. Construir el sitio:
 
-```
+```Prolog
 hugo
 ```
 
@@ -137,7 +135,7 @@ hugo
 yaml  
 name: Deploy Hugo site to GitHub Pages
 
-```
+```Prolog
 on:  
   push:
     branches:
@@ -183,7 +181,7 @@ Para convertir este archivo Markdown a PDF puedes usar alguna de las siguientes 
 - Extensión de VS Code: "Markdown PDF"
 - Pandoc (desde terminal):  
 
-```
+```Prolog
   pandoc reporte.md -o reporte.pdf
 ```
 

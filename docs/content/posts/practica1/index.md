@@ -5,8 +5,6 @@ title = 'Practica 1: Analisis de elementos fundamentales de lenguajes de program
 weight = 1
 +++
 
-## Practica 1: Analisis de elementos fundamentales de lenguajes de programacion
-
 Fanny lillian Mykytuk Ayvar
 
 ## Objetivo
