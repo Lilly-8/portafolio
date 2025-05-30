@@ -5,7 +5,7 @@ title = 'Practica 3: Aprendizaje y Análisis: Aplicación TODO en Haskell'
 weight = 3
 +++
 
-
+---
 
 ### Instalacion del entorno de desarrollo
 

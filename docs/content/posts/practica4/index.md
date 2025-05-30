@@ -2,7 +2,10 @@
 date = '2025-05-29T18:21:54-07:00'
 draft = true
 title = 'Practica 4: El paradigma lógico'
+weight = 4
 +++
+
+---
 
 ## Introducción
 
@@ -22,7 +25,8 @@ En esta práctica exploramos el paradigma lógico mediante el uso del lenguaje d
 
 Aprendimos a declarar hechos simples, como:
 
-```girl(priya).
+```
+girl(priya).
 girl(natasha).
 girl(jasmin).
 can_cook(priya).
@@ -30,7 +34,7 @@ can_cook(priya).
 
 Y reglas:
 
-```prolog
+```
 listens_to_music(ana) :- sing_a_song(ana).
 happy(ana). :- sing_a_song(ana).
 ```
@@ -39,7 +43,7 @@ happy(ana). :- sing_a_song(ana).
 
 Se realizaron consultas como:
 
-```prolog
+```
 ?- girl(priya)
 ?- girl(gael)
 ?- plays_guitar(ana)
@@ -51,7 +55,7 @@ Creamos bases de conocimientos en archivos como `kb1.pl`, `kb2.pl` y `kb3.pl`, p
 
 **kb1.pl**
 
-```Prolog
+```
 girl(priya).
 girl(natasha).
 girl(jasmin).
@@ -60,7 +64,7 @@ can_cook(priya).
 
 **kb2.lp**
 
-```Prolog
+```
 sing_a_song(ana).
 
 listens_to_music(rodrigo).
@@ -76,7 +80,7 @@ plays_guitar(rodrigo) :- listens_to_music(rodrigo).
 
 **kb3.pl**
 
-```Prolog
+```
 can_cook(priya).
 can_cook(jasmin).
 can_cook(timoteo).

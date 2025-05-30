@@ -7,6 +7,8 @@ weight = 1
 
 Fanny lillian Mykytuk Ayvar
 
+---
+
 ## Objetivo
 
 Identificar los conceptos esenciales de los lenguajes de programacion presentes en la aplicacion propuesta:

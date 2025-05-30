@@ -1,9 +1,11 @@
 +++
 date = '2025-05-23T07:51:06-07:00'
 draft = false
-title = 'Practica 2 Analisis de codigo en Python'
+title = 'Practica 2: Analisis de codigo en Python'
 weight = 2
 +++
+
+---
 
 ## Analisis de codigo en *Python*
 

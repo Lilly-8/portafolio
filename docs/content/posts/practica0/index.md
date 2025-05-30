@@ -5,6 +5,8 @@ title = 'Practica 0: Uso de repositorios'
 weight = 1
 +++
 
+---
+
 ## Introducción
 
 En esta práctica aprendimos los fundamentos de Markdown, Git, GitHub, Hugo y GitHub Actions para crear una página estática. Esta actividad se dividió en tres sesiones, cada una con objetivos específicos que se integran para formar un portafolio digital automatizado.
