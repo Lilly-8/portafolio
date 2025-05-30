@@ -1,6 +1,6 @@
 +++
 date = '2025-05-29T18:21:54-07:00'
-draft = true
+draft = false
 title = 'Practica 4: El paradigma lógico'
 weight = 4
 +++
